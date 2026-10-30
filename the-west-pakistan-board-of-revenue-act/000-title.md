@@ -1,0 +1,5 @@
+# Title
+THE WEST PAKISTAN BOARD OF REVENUE ACT AND THE WEST PAKISTAN LAND REVENUE ACT, (EXTENSION TO THE TRIBAL AREAS OF THE PROVINCE OF BALOCHISTAN) REGULATION, 1973
+(Balochistan Regulation I of 1973)
+[5th May, 1973] A Regulation to provide for the extension of the West Pakistan Board of Revenue Act, 1957 (West Pakistan Act XI of 1957) and the West Pakistan Land Revenue Act, 1967 (West Pakistan Act XVII of 1967), to the Tribal Areas of the Province of Balochistan;
+WHEREAS it is expedient to provide for the extension of the West Pakistan Board of Revenue Act, 1957 (West Pakistan Act XI of 1957), and the West Pakistan Land Revenue Act, 1967 (West Pakistan Act XVII of 1967), to the Tribal Areas of the Province of Balochistan; NOW, THEREFORE, in exercise of the powers conferred upon him by clause 4 of Article 261 of the Interim Constitution of the Islamic Republic of Pakistan, the Governor of Balochistan, with the previous approval of the President, is pleased to make and promulgate the following Regulation, namely: ―
