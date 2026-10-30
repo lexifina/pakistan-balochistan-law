@@ -1,0 +1,4 @@
+# Title
+THE BALOCHISTAN AGRICULTURAL SOLARIZATION AND ELECTRICITY THEFT PREVENTION ACТ, 2025 (Act No XV of 2025)
+[10th June, 2025] AN ACT To regulate the transition of agricultural electricity consumers from subsidized electricity to solar energy, implement the Government of Pakistan (GoP) and Government of Balochistan (GoB) solarization agreements, and prevent subsidized agricultural consumers from reconnecting to the electricity distribution network and to prevent further electric theft and to provide for the matters connected therewith and ancillary thereto.
+An Act to ensure the effective implementation of the solarization facility financed by the Government of Pakistan and the Government of Balochistan, to prevent subsidized agriculture consumers from reconnecting to the electricity distribution network in violation of the terms, and to criminalize unauthorized reconnections and electricity theft.
