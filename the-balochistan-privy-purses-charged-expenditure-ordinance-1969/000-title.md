@@ -1,0 +1,4 @@
+# Title
+THE [BALOCHISTAN] PRIVY PURSES (CHARGED EXPENDITURE) ORDINANCE, 1969 (West Pakistan Ordinance XLI of 1969) [24thNovember, 1969]
+An Ordinance to declare the expenditure relating to privy purses of Rulers of former States incorporated in the Province of [Balochistan] to be a charge on the Provincial Consolidated Fund.
+WHEREAS it is expedient to declare the expenditure relating to privy purses of Rulers of former States incorporated in the Province of [Balochistan] to be a charge on the Provincial Consolidated Fund; NOW, THEREFORE, in pursuance of the Martial Law Proclamation of 25th March, 1969, read with the Provisional Constitution Order, and in exercise of all powers enabling him in that behalf, the Governor of West Pakistan is pleased to make and promulgate the following Ordinance: ―
