@@ -1,0 +1,2 @@
+# Section 28A
+28A. Nothing in this Chapter shall affect any right or, privilege to which a person employed in a mine has been entitled on the date of coming into force of the Mines (Amendment) Ordinance, 1973, under any existing law or under any award, agreement, settlement, contract, custom or usage if such right or privilege is more favourable to him, nor shall such right or privilege be combined with or be in addition to, the benefits under the provisions of this Chapter.

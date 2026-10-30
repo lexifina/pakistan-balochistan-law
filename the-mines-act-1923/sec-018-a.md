@@ -1,0 +1,2 @@
+# Section 18A
+18A. At every mine in respect of which the appropriate Government may, by notification in the official Gazette, declare this section to apply, there shall be provided first-aid rooms of such size, with such equipment and in charge of such medical and nursing staff as may be prescribed.]

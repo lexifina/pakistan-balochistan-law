@@ -1,0 +1,3 @@
+# Section 28D
+28D. Every person employed in a mine shall be entitled in a year to ten days' casual leave on full wages and sixteen days' sick leave on half average wages:
+Provided that casual leave or sick leave admissible under this section shall not be accumulated and carried forward to the succeeding year.
