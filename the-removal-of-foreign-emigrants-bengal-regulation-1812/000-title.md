@@ -1,0 +1,3 @@
+# Title
+THE REMOVEL OF FOREIGN EMIGRANTS (BENGAL) REGULATION, 1812 (Reg. XI of 1812)
+[18th July, 1812] A Regulation to empower the [Central Government] to order the removal of emigrants from foreign countries and their descendants, from any place in the vicinity of the frontier of the state from which they may have emigrated; and in certain cases to place and detain any such persons in safe custody; and likewise to provide for the trial of emigrants and their descendants who may excite disturbances in the countries from which they may have emigrated, and of persons aiding them in the prosecution of such attempts.
