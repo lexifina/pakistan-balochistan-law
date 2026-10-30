@@ -1,0 +1,25 @@
+Law texts
+
+The texts in this repository are the Acts, Ordinances and Regulations of Balochistan (Pakistan) as published on the
+Balochistan Code (balochistancode.gob.pk) by the Law and Parliamentary Affairs Department, Government of Balochistan
+("Copyright, All rights reserved by Law & parliamentary affairs department Balochistan"). The site states no terms
+of use and no licence for reuse.
+
+- Copyright: the Copyright Ordinance, 1962 (Ordinance No. XXXIV of 1962), s. 57(1) begins "The following acts shall
+  not constitute an infringement of copyright, namely:" and clause (q) reads: "the reproduction or publication of__
+  (i) any matter which has been published in any official Gazette, or the report of any committee, commission,
+  council, board or other like body appointed by the Government unless the reproduction or publication of such
+  matter or report is prohibited by the Government". The laws of Balochistan are published in the Balochistan
+  Gazette (the footnotes of these texts record the Gazette publication), and no prohibition by the Government of
+  reproducing them was found. The texts are reproduced without change to their wording; only the arrangement (one
+  file per section or Schedule, one paragraph per line) is Lexifina's.
+- Limits of that basis: where a text incorporates later amendments, that arrangement and the footnotes (kept in
+  data/amendments.csv) are the department's. Section 57(1)(q)(i) covers matter published in the Gazette; it does not
+  in terms cover the department's arrangement and footnotes, which record facts (which law changed which words).
+- The texts are not the authoritative text: the laws as published in the Balochistan Gazette are.
+
+Attribution: Source: Balochistan Code, Law and Parliamentary Affairs Department, Government of Balochistan,
+https://balochistancode.gob.pk.
+
+Everything else (the git history's structure, the tools and the documentation): CC0 1.0 Universal,
+https://creativecommons.org/publicdomain/zero/1.0/legalcode

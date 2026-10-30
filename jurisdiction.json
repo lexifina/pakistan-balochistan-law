@@ -1,0 +1,8 @@
+{
+  "path": "pk-ba",
+  "code": "PK-BA",
+  "name": "Balochistan",
+  "level": "country",
+  "repo": "https://github.com/lexifina/pakistan-balochistan-law",
+  "build": "built: Balochistan Acts, Ordinances and Regulations, current text from the Balochistan Code"
+}
