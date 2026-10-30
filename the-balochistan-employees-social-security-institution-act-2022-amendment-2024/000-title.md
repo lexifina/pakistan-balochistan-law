@@ -1,0 +1,4 @@
+# Title
+BALOCHISTAN PROVINCIAL ASSEMBLY SECRETARIAT. Dated Quetta the 07th January,2025. N O T I F I C A T I O N. No.PAB/Legis:V (05)/2024/4153. The Balochistan Employees’ Social Security Institution (Amendment) Bill, 2024 (Bill No. 05 of 2024), having been passed by the Provincial Assembly of Balochistan on 24th December, 2024 and assented to by the Governor Balochistan, on 1st January, 2025 is hereby published as an Act of the Balochistan Provincial Assembly. THE BALOCHISTAN EMPLOYEES’ SOCIAL SECURITY INSTITUTION (AMENDMENT) ACT, 2024 ACT NO. VI OF 2025. AN ACT to amend the Balochistan Employees’ Social Security Institution Act, 2022 (Act No.XXIX of 2022).
+WHEREAS, it is expedient to amend the Balochistan Employees’ Social Security Institution Act, 2022 (Act No.XXIX of 2022), in the manner hereinafter appearing;
+It is hereby enacted as follows: -
