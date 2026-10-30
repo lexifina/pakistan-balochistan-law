@@ -1,0 +1,5 @@
+# Title
+THE GWADAR (APPLICATION OF [BALOCHISTAN] LAWS) ORDINANCE, 1962 (W.P. Ordinance I of 1962)
+[6th January, 1962]
+An Ordinance to extend the [Balochistan] Laws to Gwadar.
+WHEREAS Gwadar, being ceded to Pakistan on the eighth day of September, 1958, became on that day one of the territories included in Pakistan; AND WHEREAS Article 2 of the Gwadar (Government and Administration) Order, 1958, provides that until otherwise determined by competent authority, Gwadar shall, for purposes of government and administration, and all matters connected therewith, constitute part of the Mekran District in the Kalat Division of the Province of [Balochistan]; AND WHEREAS it is expedient to apply to Gwadar all [Balochistan] laws which are or may hereafter be in force in the aforesaid Mekran District; NOW, THEREFORE, in pursuance of the Presidential Proclamation of the seventh day of October, 1958, and having received the previous instructions of the President, the Governor of West Pakistan, in exercise of all powers enabling him in that behalf, is pleased to make and promulgate the following Ordinance: ―
