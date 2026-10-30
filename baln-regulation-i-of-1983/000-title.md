@@ -1,0 +1,4 @@
+# Title
+THE [BALOCHISTAN] MAINTENANCE OF PUBLIC ORDER ORDINANCE, 1960 (APPLICATION TO THE PROVINCIALLY ADMINISTERED TRIBAL AREAS OF BALOCHISTAN) REGULATION, 1983 (Baln Reg. I of 1983)
+[3rd November, 1983] A Regulation to apply the Balochistan Maintenance of Public Order Ordinance, 1960, to the Provincially Administered Tribal Areas of Balochistan;
+WHEREAS it is expedient to apply the Balochistan Maintenance of Public Ordinance, 1960 (W.P. Ordinance XXXI of 1960), to the Provincially Administered Tribal Areas of Balochistan; NOW, THEREFORE, in exercise of the powers conferred by Article 247 of the Constitution, read with Article 2 of the Provisional Constitution Order, 1981 (C.M.L.A. Order No.1 of 1981), the Governor of Balochistan with the prior approval of the President of Pakistan is pleased to make and promulgate the following Regulation, namely:-
