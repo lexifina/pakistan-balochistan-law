@@ -1,0 +1,2 @@
+# Section 26A
+26A. Within a period not exceeding two years from the date of commencement of this Act, the Government shall establish specialized units including but not limited to an Internal Audit, Provincial Revenues and Fiscal Policy Management, Debt Management, Risk & Investment Management and Budget Reform Management within the Finance Department having distinct roles, responsibilities, functions, powers, terms and conditions as may be prescribed.]
