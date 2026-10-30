@@ -1,0 +1,4 @@
+# Title
+THE [BALOCHISTAN] MAINTENANCE OF PUBLIC ORDER ORDINANCE, 1960 (W.P. Ordinance XXXI of 1960)
+[2nd December, 1960]
+An Ordinance to amend and consolidate the law relating to preventive detention and control of persons and publications connected with the maintenance of public order in [Balochistan]. [WHEREAS it is expedient to amend and consolidate the law providing for preventive detention and control of persons and publications for reasons connected with public safety, public interest and the maintenance of public order in the Province of [Balochistan];] NOW, THEREFORE, in pursuance of the Presidential Proclamation of the seventh day of October, 1958, and having received the previous instructions of the President, the Governor of West Pakistan is pleased, in exercise of all powers enabling him in that behalf, to make and promulgate the following Ordinance:―
