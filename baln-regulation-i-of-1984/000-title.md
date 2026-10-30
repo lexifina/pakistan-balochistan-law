@@ -1,0 +1,4 @@
+# Title
+THE PROVINCIALLY ADMINISTERED TRIBAL AREAS (APPLICATION OF LAWS) REGULATION, 1984. (Baln Reg. I of 1984)
+[4th November, 1984] A Regulation to apply certain laws to the Provincially Administered Tribal Areas of Balochistan.
+WHEREAS is the expedient to apply certain laws to the Provincially Administered Tribal Areas of Balochistan; AND WHEREAS the Governor of Balochistan, with the prior approval of the President, may, with respect to any matter within the legislative competence of the Provincial Assembly, make regulations for a Provincially Administered Tribal Area or any part thereof; NOW, THEREFORE, in pursuance of the Proclamation of the fifth day of July, 1977, and in exercise of all powers enabling him in that behalf. the Governor of Balochistan, with the prior approval of the President, is pleased to make the following Regulation:-
