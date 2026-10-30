@@ -1,0 +1,4 @@
+# Title
+THE WEST PAKISTAN CIVIL COURTS ORDINANCE (EXTENSION TO TRIBAL AREAS OF QUETTA DIVISION) REGULATION, 1963 (W.P. Reg. II 1963)
+[30th January, 1963] A Regulation to provide for the extension of the West Pakistan Civil Courts Ordinance, 1962, to the Tribal Areas of Quetta Division.
+WHEREAS clause (2) of Article 223 of the Constitution of the Republic of Pakistan provides that the Governor of West Pakistan with the approval of the President may, with respect to any matter within the legislative competence of the Provincial Legislature, make regulations for a Tribal Area or any part of a Tribal Area situated in the Province; AND WHEREAS it is expedient to provide for the extension of the West Pakistan Civil Courts Ordinance, 1962, to the Tribal Areas of Quetta Division; NOW, THEREFORE, the Governor of West Pakistan, with the approval of the President, is pleased to make the following Regulations: ―
