@@ -80,7 +80,8 @@ def main():
         out['published_paths'] = len(law)
         out['published_changed'] = changed[:20]
         out['commits'] = git(repo, 'rev-list', '--count', 'main')
-    ok = out['letters_ok'] and out['check_ok'] and not out['audit'] and not out['published_changed']
+    ok = (out['letters_ok'] and out['check_ok'] and not out['audit'] and not out['published_changed']
+          and out['published_paths'] > 0)
     out['ok'] = ok
     print(json.dumps(out, ensure_ascii=False))
     return 0 if ok else 1

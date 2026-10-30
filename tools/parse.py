@@ -252,7 +252,8 @@ def parse(pdf: Path, tables: bool = False) -> dict:
         # footnotes: small-type rows below the last body-size row of the page
         last_body = max((r[4] for r in ls if r[5] >= 0.9 * body), default=0)
         # the right edge of the text column: where most body rows that start in the left half end (justified text);
-        # short lines starting right of it are marginal notes printed on the right (older Acts)
+        # short lines starting right of it are marginal notes printed on the right (older Acts); a note in smaller
+        # type may start a few points inside that edge (2026-10-31: "Preamble." at 470 against an edge at 470)
         right_edge = doc_edge if doc_edge else W
         keep = []
         for r in ls:
@@ -260,7 +261,8 @@ def parse(pdf: Path, tables: bool = False) -> dict:
                 notes.append({'page': pno + 1, 'text': r[6]})
             elif (PAGENO.match(r[6]) and (r[2] > 0.88 * H or r[4] < 0.13 * H)) or (r[4] < 0.1 * H and ld(r[6]) in heads) or (r[4] < 0.13 * H and PAGEPFX.match(r[6]) and headkey(r[6]) in heads):
                 aside.append(r[6])
-            elif r[1] > right_edge + 2 and r[1] > 0.6 * W and r[3] - r[1] < 0.25 * W and \
+            elif (r[1] > right_edge + 2 or (r[1] > right_edge - 4 and r[5] < 0.92 * body)) and r[1] > 0.6 * W and \
+                    r[3] - r[1] < 0.25 * W and \
                     not (DESIG.match(r[6]) or PARTIAL.match(r[6])):  # a table's designation column is text
                 aside.append(r[6])   # marginal note on the right; joined into blocks like the left ones
                 if margin and margin[-1][0] == pno and r[2] - margin[-1][1] < 2.2 * (r[4] - r[2]):
