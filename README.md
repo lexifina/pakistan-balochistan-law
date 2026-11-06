@@ -1,5 +1,7 @@
 # Balochistan: law history in git
 
+Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is the law of Balochistan, Pakistan, which global-law reads at `pakistan/balochistan/acts/`.
+
 The Acts, Ordinances and Regulations of the Province of Balochistan (Pakistan) as a git history: one file per section, one paragraph per line, so `git blame`, `git log` and `git diff` work line by line. The text is the English text published on the Balochistan Code.
 
 It follows the shared design of [lexifina/global-law](https://github.com/lexifina/global-law).
